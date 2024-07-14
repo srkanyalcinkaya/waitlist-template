@@ -1,5 +1,5 @@
 # Wait list Template
-
+![Waitlist](src/assets/screenshot-1.png)
 ## Libraries used:
 - React JS
 - Tailwindcss
@@ -11,9 +11,9 @@
 - Radix UI Icons
 ## TODO list 
 
-- [] Dark Mode
-- [] Sending the e-mail to Google Excel
-- [] V2
+- [ ] Dark Mode
+- [ ] Sending the e-mail to Google Excel
+- [ ] V2
 
 
 ---
